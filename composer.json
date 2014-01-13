@@ -1,0 +1,26 @@
+{
+    "name": "cringer/psr4-template",
+    "description": "PHP project template using PSR-4 standards",
+    "keywords": ["psr4", "template"],
+    "homepage": "https://github.com/cringer/psr4-template",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeremy Schaffer",
+            "email": "jeremys@codenexus.org"
+        }
+    ],
+    "support": {
+        "email": "support@codenexus.org",
+        "issues": "https://github.com/cringer/psr4-template/issues"
+    },
+    "require": {
+        "php": ">=5.3.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Psr4\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
