@@ -1,4 +1,4 @@
-<?php namespace PSR4;
+<?php namespace Psr4;
 
 class Sample
 {
