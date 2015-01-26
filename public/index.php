@@ -2,5 +2,5 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
-$o = new Psr4\Sample();
+$o = new App\Sample();
 var_dump($o->func());
