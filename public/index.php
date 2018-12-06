@@ -7,3 +7,4 @@ require __DIR__ . '/../vendor/autoload.php';
 
 $p = new App\Lib\Lavallee();
 var_dump($p->func());
+//echo "hello";
