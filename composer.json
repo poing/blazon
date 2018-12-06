@@ -19,16 +19,11 @@
     },
     "autoload": {
         "psr-4": {
-            "": "src/"
+            "App\\": "src/"
         }
     },
-    "minimum-stability": "dev",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/poing/blazon"
-        }
-    ]
+    "minimum-stability": "dev"
+
 }
 
 
