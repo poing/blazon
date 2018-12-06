@@ -17,6 +17,7 @@
     "require": {
         "php": ">=5.6.4"
     },
+    "optimize-autoloader": true,
     "autoload": {
         "psr-4": {
             "App\\": "src/"
@@ -25,5 +26,3 @@
     "minimum-stability": "dev"
 
 }
-
-
