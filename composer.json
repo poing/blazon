@@ -2,6 +2,7 @@
     "name": "poing/blazon",
     "description": "PSR-4 Composer Package",
     "version": "0.0.0-dev",
+    "minimum-stability": "dev",
     "keywords": ["psr4", "template"],
     "homepage": "https://github.com/poing/blazon",
     "license": "MIT",
