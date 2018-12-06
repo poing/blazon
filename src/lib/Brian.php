@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Brian;
+namespace App\Lib;
 
 class Lavallee
 {
