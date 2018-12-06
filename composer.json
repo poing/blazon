@@ -1,7 +1,7 @@
 {
     "name": "poing/blazon",
     "description": "PSR-4 Composer Package",
-    "version": "0.0.0-dev",
+    "version": "0.0.0",
     "minimum-stability": "dev",
     "keywords": ["psr4", "template"],
     "homepage": "https://github.com/poing/blazon",
